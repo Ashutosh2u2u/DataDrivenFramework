@@ -5,6 +5,7 @@
     <classes>
       <class name="com.datadriven.test.DataDrivenTest">
         <methods>
+          <include name="registration"/>
           <include name="setUp"/>
           <include name="tearDown"/>
           <include name="signIn"/>
